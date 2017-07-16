@@ -1,5 +1,7 @@
 # loiane.github.io
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/loiane/loiane.github.io.svg)](https://greenkeeper.io/)
+
 Uncompiled [Jekyll](//jekyllrb.com) source code for [loiane.com](http://loiane.com).
 
 ### Steps to use
